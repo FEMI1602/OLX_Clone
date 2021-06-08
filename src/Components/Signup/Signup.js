@@ -23,7 +23,7 @@ export default function Signup() {
   return (
     <div>
       <div className="signupParentDiv">
-        <img width="200px" height="200px" src={Logo}></img>
+        <img width="200px" height="200px" src={Logo} alt="Image here"></img>
         <form onSubmit={handleSubmit}> 
           <label htmlFor="fname">Username</label>
           <br />
