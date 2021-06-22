@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/OLX_Clone/static/css/main.f3237971.chunk.css",
+    "main.js": "/OLX_Clone/static/js/main.e7ab5470.chunk.js",
+    "main.js.map": "/OLX_Clone/static/js/main.e7ab5470.chunk.js.map",
+    "runtime-main.js": "/OLX_Clone/static/js/runtime-main.e32a1b0b.js",
+    "runtime-main.js.map": "/OLX_Clone/static/js/runtime-main.e32a1b0b.js.map",
+    "static/js/2.89af31bf.chunk.js": "/OLX_Clone/static/js/2.89af31bf.chunk.js",
+    "static/js/2.89af31bf.chunk.js.map": "/OLX_Clone/static/js/2.89af31bf.chunk.js.map",
+    "index.html": "/OLX_Clone/index.html",
+    "static/css/main.f3237971.chunk.css.map": "/OLX_Clone/static/css/main.f3237971.chunk.css.map",
+    "static/js/2.89af31bf.chunk.js.LICENSE.txt": "/OLX_Clone/static/js/2.89af31bf.chunk.js.LICENSE.txt",
+    "static/media/olx-logo.b3f099a2.png": "/OLX_Clone/static/media/olx-logo.b3f099a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e32a1b0b.js",
+    "static/js/2.89af31bf.chunk.js",
+    "static/css/main.f3237971.chunk.css",
+    "static/js/main.e7ab5470.chunk.js"
+  ]
+}
